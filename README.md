@@ -1,5 +1,4 @@
 # Debrief Documentation
 
-<p align="center">
-  <img src="./Debrief_Architecture_Diagram.svg" />
-</p>
+![Debrief Architecture Diagram](Debrief_Architecture_Diagram.png)
+
